@@ -12,6 +12,7 @@ Group:		Development/Perl
 Url:		http://search.cpan.org/author/GAAS/%{module}-%{version}/
 Source0:	ftp://ftp.perl.org//pub/CPAN/modules/by-module/%{module}/%{module}-%{version}.tar.bz2
 Buildrequires:	perl-devel
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Buildarch:	noarch
 
 %description
