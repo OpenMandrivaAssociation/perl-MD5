@@ -1,7 +1,7 @@
 %define	module	MD5
 %define	name	perl-%{module}
 %define	version	2.03
-%define	release	%mkrel 9
+%define	release	%mkrel 10
 
 Summary:	The Perl interface to the RSA Message Digest Algorithm
 Name:		%{name}
