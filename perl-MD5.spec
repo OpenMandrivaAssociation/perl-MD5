@@ -3,7 +3,7 @@
 Summary:	The Perl interface to the RSA Message Digest Algorithm
 Name:		perl-%{module}
 Version:	2.03
-Release:	12
+Release:	13
 License:	GPLv2 or Artistic
 Group:		Development/Perl
 Url:		http://search.cpan.org/author/GAAS/%{module}-%{version}/
