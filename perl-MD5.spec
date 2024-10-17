@@ -6,7 +6,7 @@ Version:	2.03
 Release:	22
 License:	GPLv2 or Artistic
 Group:		Development/Perl
-Url:		http://search.cpan.org/author/GAAS/%{module}-%{version}/
+Url:		https://search.cpan.org/author/GAAS/%{module}-%{version}/
 Source0:	ftp://ftp.perl.org//pub/CPAN/modules/by-module/%{module}/%{module}-%{version}.tar.bz2
 Buildarch:	noarch
 Buildrequires:	perl-devel
