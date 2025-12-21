@@ -9,6 +9,7 @@ Group:		Development/Perl
 Url:		https://search.cpan.org/author/GAAS/%{module}-%{version}/
 Source0:	ftp://ftp.perl.org//pub/CPAN/modules/by-module/%{module}/%{module}-%{version}.tar.bz2
 Buildarch:	noarch
+BuildRequires:	make
 Buildrequires:	perl-devel
 
 %description
